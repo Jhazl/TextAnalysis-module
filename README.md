@@ -26,8 +26,7 @@ The following class is made for text analysis in Java. The class consists of sta
 |int|getCountOfWord(String stringToFindOccurances, String word)|Returns a count of the word in the text|
 |ArrayList<String>|getAllUniqueWords(String str)|Returns all the words that are unique in a string|
 |int|countOccurancesOfLetter(String sentence, char letter)|Returns a count of all the occurances of a letter|
-|String|capitalizeStartingLetter(String strToCapitalize)|Capitilizes the starting letter of all words in the string that aren
-t url|
+|String|capitalizeStartingLetter(String strToCapitalize)|Capitilizes the starting letter of all words in the string that aren't a url|
 
 ## How to use
 
